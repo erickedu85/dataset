@@ -1,0 +1,17 @@
+"Social Platforms","Montly Active Users"
+Facebook,2.603
+Youtube,2.000
+WhatsApp,2.000
+FB Messenger,1.300
+Wechat,1.203
+Instagram,1.082
+Tiktok,800
+QQ,694
+SINA Webo,550
+Qzone,517
+Reddit,430
+Douyin,400
+Kuaishou,400
+Snapchat,397
+Pinterest,367
+Twitter,326
